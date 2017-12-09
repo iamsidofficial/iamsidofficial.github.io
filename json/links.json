@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Facebook",
+        "color": "#3b5998",
+        "icon": "facebook-box",
+        "url": "https://www.facebook.com/TheSRaj/"
+	},
+    {
+        "name": "Instagram",
+        "color": "#8a3ab9",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/sid___official/"
+	},
+    {
+        "name": "Twitter",
+        "color": "#0084b4",
+        "icon": "twitter",
+        "url": "https://twitter.com/iam_sidofficial/"
+	},
+	{
+        "name": "XDA",
+        "color": "#ffaf32",
+        "icon": "xda",
+        "url": "https://forum.xda-developers.com/member.php?u=7939179/"
+	},
+    {
+        "name": "Github",
+        "color": "#000000",
+        "icon": "github-circle",
+        "url": "https://github.com/iamsidofficial/"
+	}
+]

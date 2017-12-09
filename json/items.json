@@ -1,1 +1,14 @@
-
+[
+    {
+        "name": "Splash for Redmi 2/Prime",
+        "description": "This is a collection of beautiful boot logos compatible with Redmi 2/Prime, Lenovo A6000, Redmi 3s/3sPrime.",
+        "image": "images/splash.jpg",
+        "link": "https://forum.xda-developers.com/redmi-2/themes/splash-boot-logos-ubuntu-nexus-5-t3635464"
+	},
+    {
+        "name": "Other Works",
+        "description": "A lot of great and beautiful work is yet to come. Stay tuned for any updates.",
+        "image": "images/others.jpg",
+        
+	}
+]
